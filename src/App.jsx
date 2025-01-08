@@ -100,6 +100,7 @@ function App() {
                   <h5 className="card-title">
                     {tempProduct.title}
                     <span className="badge text-bg-primary">
+                      
                       {tempProduct.category}
                     </span>
                   </h5>
